@@ -1,1 +1,1 @@
-# geog495_website
+# Seahawks Themed Website
